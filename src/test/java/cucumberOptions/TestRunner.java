@@ -1,10 +1,11 @@
 package cucumberOptions;
 
+import org.testng.annotations.Test;
+
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
 
-import org.testng.annotations.Test;
-import cucumber.api.junit.Cucumber;
+
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(

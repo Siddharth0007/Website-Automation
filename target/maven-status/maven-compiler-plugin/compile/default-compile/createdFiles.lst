@@ -1,2 +1,6 @@
 resources/base.class
 pageobject/homepage.class
+resources/uilities/ExcelReader.class
+resources/uilities/ExcelReader$1.class
+pageobject/signup.class
+resources/uilities/datadriver.class
